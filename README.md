@@ -1,4 +1,4 @@
-# ViArt-Assistand
+# ViArt Assistant
 Este proyecto de Visión Artificial nombrado "DualitySide" es un modelo de navegación en interiores para personas 
 con discapacidad visual parcial o total.
 
